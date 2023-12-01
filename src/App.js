@@ -31,7 +31,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-      <h2>Welcome to the Home</h2>
+      <h2>Welcome to the Chat App</h2>
         {/* Navigation bar with links */}
         <nav>
           <ul>
